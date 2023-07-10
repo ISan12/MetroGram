@@ -5,3 +5,7 @@
 [![Channel](https://i.imgur.com/a9AO8qX.png)](https://t.me/metrogramclient)
 
 **сторонний** клиент Telegram на основе [оффициальных источников](https://github.com/DrKLO/Telegram).
+
+# Создано на основе ExteraGram
+
+[ExteraGram](https://github.com/exteraSquad/exteraGram)
