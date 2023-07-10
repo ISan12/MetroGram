@@ -2,6 +2,6 @@
 
 ## MetroGram
 
-[![Channel](https://imgur.com/EzxJ8b6.png)](https://t.me/metrogramclient)
+[![Channel](https://imgur.com/a/yENPQCa.png)](https://t.me/metrogramclient)
 
 **сторонний** клиент Telegram на основе [оффициальных источников](https://github.com/DrKLO/Telegram).
