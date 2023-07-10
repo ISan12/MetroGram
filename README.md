@@ -8,4 +8,8 @@
 
 # Создано на основе ExteraGram
 
-[ExteraGram](https://github.com/exteraSquad/exteraGram)
+[ExteraGram](https://github.com/exteraSquad/exteraGram) 
+
+## Мой дискорд - isanru
+
+
