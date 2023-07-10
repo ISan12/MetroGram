@@ -2,6 +2,6 @@
 
 ## MetroGram
 
-[![Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/metrogramclient)
+[![Channel](blob:https://imgur.com/e5338963-be9c-4390-a402-07800b9b37b1)](https://t.me/metrogramclient)
 
 **сторонний** клиент Telegram на основе [оффициальных источников](https://github.com/DrKLO/Telegram).
